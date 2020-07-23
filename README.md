@@ -1,6 +1,8 @@
 # Piedra, Papel, Tijera, Largarto, Spock - TP Final UI
 
-
+## Dependencias
+- [Node.js](https://nodejs.org/es/) preferentemente 12.18.3
+- npm
 
 ## Instalacion
 
