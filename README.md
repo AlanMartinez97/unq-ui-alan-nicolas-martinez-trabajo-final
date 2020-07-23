@@ -1,11 +1,13 @@
-#Piedra, Papel, Tijera, Largarto, Spock - TP Final UI
+# Piedra, Papel, Tijera, Largarto, Spock - TP Final UI
 
-##Instalacion
 
-###Clonacion
+
+## Instalacion
+
+### Clonacion
 - Clonar el repositorio a su maquina local usando `https://github.com/AlanMartinez97/unq-ui-alan-nicolas-martinez-trabajo-final`
 
-###Setup y Run
+### Setup y Run
 
 - Dentro de la carpeta raiz del proyecto, donde se encuentra el package.json, hacer:
 
@@ -15,7 +17,7 @@
 $ npm install
 ```
 
->Una vez terminado el install, correr el proyecto:
+> Una vez terminado el install, correr el proyecto:
 
 ```shell
 $ npm start
