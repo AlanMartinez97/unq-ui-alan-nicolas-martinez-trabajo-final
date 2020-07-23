@@ -1,0 +1,44 @@
+.jugadorUno-choices:hover{
+    border-color:#c2185b;
+}
+
+.jugadorDos-choices:hover{
+    border-color:#43a047 !important
+}
+
+.jugadorUno-choice{
+    border-width:3px !important;
+    border-color: #c2185b !important;
+}
+
+.jugadorUno-choice-parent{
+    margin-bottom:5px;
+}
+
+.jugadorDos-choice{
+    border-width:3px !important;
+    border-color: #43a047 !important;
+}
+
+.jugadorDos-choice-parent{
+    margin-top:10px;
+}
+
+.disabled-choice{
+    pointer-events: none;
+    cursor: default;
+    opacity:0.2;
+}
+
+.collapsible-header{
+    pointer-events: none;
+}
+
+.collapsible-body{
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+.restart{
+    margin-right:10px;
+}

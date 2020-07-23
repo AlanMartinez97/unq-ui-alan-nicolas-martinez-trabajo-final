@@ -1,0 +1,15 @@
+#eleccion-maquina-carousel{
+    margin-bottom: 0;
+    padding-bottom:0 !important;
+
+}
+
+.carousel-item{
+    padding-bottom:0px !important;
+    pointer-events: none;
+    cursor: default;
+}
+
+.carousel{
+    height:250px !important;
+}

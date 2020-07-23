@@ -1,0 +1,10 @@
+th {
+    text-align: center;
+}
+
+table.highlight>tbody>tr:hover {
+    background-color:#1e88e5;
+}
+table.highlight>tbody>tr {
+    color: black;
+}
