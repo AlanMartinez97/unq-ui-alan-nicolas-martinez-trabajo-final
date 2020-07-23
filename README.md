@@ -25,4 +25,4 @@ $ npm install
 $ npm start
 ```
 
-- Una vez hecho el start, la pagina esta alojada en `localhost:3000`
+- Una vez hecho el start, la pagina del juego se encuentra alojada en `localhost:3000` , lo cual puede acceder desde un browser
